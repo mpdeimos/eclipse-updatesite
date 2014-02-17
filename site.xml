@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.eclipse.equinox.security.linux.feature_0.1.0.201402170845.jar" id="org.eclipse.equinox.security.linux.feature" version="0.1.0.201402170845" os="linux" arch="x86,x86_64"/>
+   <feature url="features/org.eclipse.equinox.security.linux.feature_0.1.0.201402170906.jar" id="org.eclipse.equinox.security.linux.feature" version="0.1.0.201402170906" os="linux" arch="x86,x86_64"/>
 </site>
