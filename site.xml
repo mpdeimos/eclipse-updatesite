@@ -3,5 +3,8 @@
    <description name="mpdeimos.com Update Site" url="http://mpdeimos.com/eclipse-updatesite/">
       mpdeimos.com Update Site
    </description>
-   <feature url="features/org.eclipse.equinox.security.linux.feature_0.1.0.201402170958.jar" id="org.eclipse.equinox.security.linux.feature" version="0.1.0.201402170958" os="linux" arch="x86,x86_64"/>
+   <feature url="features/org.eclipse.equinox.security.linux.feature_0.1.0.201402200739.jar" id="org.eclipse.equinox.security.linux.feature" version="0.1.0.201402200739" os="linux" arch="x86,x86_64">
+      <category name="org.eclipse.equinox.security.linux"/>
+   </feature>
+   <category-def name="org.eclipse.equinox.security.linux" label="Linux Secure Storage implementation"/>
 </site>
